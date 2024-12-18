@@ -28,7 +28,7 @@ public class C06String {
 //        int[] arr1 = {10, 20, 30};
 //
 ////        리스트에는 참조자료형 세팅
-////        참조자료형에 원시자료형을 담을떄는 WRapperClass를 써야함
+////        참조자료형에 원시자료형을 담을떄는 WrapperClass를 써야함
 //        List<Integer> list1 = new ArrayList<>();
 //        list1.add(10);
 //        list1.add(20);

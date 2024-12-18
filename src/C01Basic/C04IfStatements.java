@@ -31,7 +31,7 @@ public class C04IfStatements {
 //            System.out.println("걸어가시오");
 //        }
 
-////        삼항연산자 -> 결과값 = 조건식 ? 반환값 1 : 반환값2
+////        삼항연산자 -> 결과값 == 조건식 ? 반환값 1 : 반환값2
 //        int answer = 1234;
 //        Scanner sc = new Scanner(System.in);
 //        int input = sc.nextInt();
